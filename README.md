@@ -1,1 +1,1 @@
-Build Seq to Seq model + attention techniques on machine translation
+Build Seq to Seq model + attention techniques on machine translation. Generate summarization
